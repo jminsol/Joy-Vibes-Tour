@@ -359,5 +359,27 @@
     "02", 
     "03",
     "04"
+  ],
+  "notifications": [
+    {
+      "title": "notification 1",
+      "date":"Aug 18, 2023",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lectus, efficitur eu eros vel, luctus aliquet est. Sed sit amet ligula non mauris porta dignissim.."
+    },
+    {
+      "title": "notification 2",
+      "date":"Dec 01, 2023",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lectus, efficitur eu eros vel, luctus aliquet est. Sed sit amet ligula non mauris porta dignissim.."
+    },
+    {
+      "title": "notification 3",
+      "date":"July 17, 2023",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lectus, efficitur eu eros vel, luctus aliquet est. Sed sit amet ligula non mauris porta dignissim.."
+    },
+    {
+      "title": "notification 4",
+      "date":"Mar 23, 2023",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lectus, efficitur eu eros vel, luctus aliquet est. Sed sit amet ligula non mauris porta dignissim.."
+    }
   ]
 }
